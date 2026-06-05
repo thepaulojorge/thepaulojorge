@@ -29,11 +29,16 @@ Apaixonado por tecnologia e interfaces bonitas. Construo projetos do zero pensan
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Atividade
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thepaulojorge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepaulojorge&layout=compact&theme=tokyonight&hide_border=true" />
+
+![Snake animation](https://raw.githubusercontent.com/thepaulojorge/thepaulojorge/output/github-contribution-grid-snake-dark.svg)
+
+| 🗂️ Repositórios públicos | ⭐ Linguagem principal | 📍 Localização |
+|:---:|:---:|:---:|
+| 6 projetos | JavaScript / CSS | Brasil 🇧🇷 |
+
 </div>
 
 ---
