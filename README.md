@@ -23,19 +23,28 @@ Apaixonado por tecnologia e interfaces bonitas. Construo projetos do zero pensan
 |---|---|---|
 | [💼 Portfólio](https://thepaulojorge.github.io/portfoliopaulojorge/) | Portfólio pessoal multilíngue com dark mode, animações e SEO | HTML, CSS, JS |
 | [🛍️ Controle de Compras](https://thepaulojorge.github.io/controledecompras/) | App para controle de gastos em viagens internacionais | HTML, CSS, JS |
-| [✅ To-Do List](https://github.com/thepaulojorge/catalogodejogos) | Gerenciador de tarefas simples e responsivo | HTML, CSS, JS |
-| [🎮 Catálogo de Jogos](https://github.com/thepaulojorge/catalogodejogos) | Catálogo pessoal de jogos com estatísticas e filtros | HTML, CSS, JS |
-| [⚖️ Rescisão Verificada](https://github.com/thepaulojorge/rescisaoverificada) | Calculadora de rescisão trabalhista com IA integrada | HTML, CSS, JS |
+| [🎮 Catálogo de Jogos](https://thepaulojorge.github.io/catalogodejogos/) | Catálogo pessoal de jogos com estatísticas e filtros | HTML, CSS, JS |
+| [⚖️ Rescisão Verificada](https://thepaulojorge.github.io/rescisaoverificada/) | Calculadora de rescisão trabalhista com IA integrada | HTML, CSS, JS, IA |
+| [🌤️ App de Clima](https://thepaulojorge.github.io/appclima/) | Previsão do tempo com busca de cidades e qualidade do ar | HTML, CSS, JS, API |
 
 ---
 
-## 📊 Atividade
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thepaulojorge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepaulojorge&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Atividade
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/thepaulojorge/thepaulojorge/output/github-contribution-grid-snake-dark.svg)
 
-| 🗂️ Repositórios públicos | ⭐ Linguagem principal | 📍 Localização |
+| 📁 Repositórios públicos | ⭐ Linguagem principal | 📍 Localização |
 |:---:|:---:|:---:|
 | 6 projetos | JavaScript / CSS | Brasil 🇧🇷 |
 
